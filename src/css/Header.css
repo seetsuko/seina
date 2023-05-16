@@ -1,5 +1,5 @@
 .App-header {
-  height: 150px;
+  height: 250px;
   background-color: #f8e2f0;
   text-align: center;
   color: #4f3737;
@@ -9,6 +9,8 @@
   padding: 0;
   display: table;
   width: 80vmax;
+  height: 100px;
+  line-height: 230px;
 }
 .menu li{
   list-style: none;
