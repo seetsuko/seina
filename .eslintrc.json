@@ -23,6 +23,13 @@
 	"import/prefer-default-export":"off",
 	"react/function-component-definition":"off",
 	"arrow-body-style":"off",
-	"import/no-extraneous-dependencies":"off"
+	"import/no-extraneous-dependencies":"off",
+	"semi": ["error", "always"],
+        "semi-spacing": ["error", {"after": true, "before": false}],
+        "semi-style": ["error", "last"],
+        "no-extra-semi": "error",
+        "no-unexpected-multiline": "error",
+        "no-unreachable": "error",
+				"jsx-quotes": ["error", "prefer-double"]
 	}
 }

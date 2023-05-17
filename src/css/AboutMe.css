@@ -1,7 +1,19 @@
 .about-me{
-  background-color: bisque;
-  height: 1500px;
+  background-image: url(../background-image.jpg) ;
+  background-size:cover;
+  height: 2000px;
+  width: 100vw;
 }
+.about-me::after {
+  content: "";
+  position: absolute;
+  top: 100%;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  background: rgba(0, 0, 0, 0.5);
+}
+
 .my-mgram{
   height: 40vmin;
 }
