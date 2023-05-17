@@ -5,6 +5,7 @@ import myPicture from "../20728.jpg"
 export const Home = () => {
   return(
     <div className="home">
+      <section id="home">
       <div className="main">
         <div className="name-container">
           <h1 className="name">Seina</h1>
@@ -17,7 +18,9 @@ export const Home = () => {
       <p>Welcome and thank you for visiting my website. </p>
       <ExpandMoreIcon
         className="next-icon"
-        sx={{ fontSize: 100 }}/>
+        sx={{ fontSize: 100 }}
+        />
+        </section>
     </div>
   )
 }
