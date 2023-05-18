@@ -1,7 +1,7 @@
 import "../css/Home.css";
 import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
 import { Link as Scroll } from "react-scroll";
-import myPicture from "../my-picture.jpg";
+import myPicture from "../picture/my-picture.jpg";
 
 
 export const Home = () => {
