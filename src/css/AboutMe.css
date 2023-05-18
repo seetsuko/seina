@@ -4,15 +4,7 @@
   height: 2000px;
   width: 100vw;
 }
-.about-me::after {
-  content: "";
-  position: absolute;
-  top: 100%;
-  left: 0;
-  height: 100%;
-  width: 100%;
-  background: rgba(0, 0, 0, 0.5);
-}
+
 
 .my-mgram{
   height: 40vmin;
