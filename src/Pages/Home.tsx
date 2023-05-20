@@ -1,13 +1,13 @@
 import "../css/Home.css";
-import ExpandMoreIcon from '@mui/icons-material/ExpandMore';
+import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import { Link as Scroll } from "react-scroll";
 import myPicture from "../picture/my-picture.jpg";
 
 
 export const Home = () => {
   return(
-    <div className="home">
-      <section id="home">
+    <section id="home">
+      <div className="home">
         <div className="main">
           <div className="name-container">
             <h1 className="name">Seina</h1>
@@ -24,7 +24,7 @@ export const Home = () => {
             sx={{ fontSize: 100 }}
           />
         </Scroll>
-      </section>
-    </div>
+      </div>
+    </section>
   );
 };
