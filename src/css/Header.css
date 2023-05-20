@@ -13,6 +13,5 @@
   line-height: 230px;
 }
 .menu li{
-  list-style: none;
   display:table-cell;
 }

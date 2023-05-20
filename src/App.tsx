@@ -1,8 +1,8 @@
 
-import './css/App.css';
+import "./css/App.css";
 import { Header } from "./Header";
-import { AboutMe } from './Pages/AboutMe';
-import { Home } from './Pages/Home';
+import { AboutMe } from "./Pages/AboutMe";
+import { Home } from "./Pages/Home";
 
 function App() {
   return (
