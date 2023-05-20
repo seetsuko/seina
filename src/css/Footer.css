@@ -1,17 +1,12 @@
 .App-footer {
+  margin: 0;
   height: 200px;
   background-color: #dbc2d2;
   text-align: center;
   color: #4f3737;
 }
-.menu{
-  margin: 0 auto;
-  padding: 0;
-  display: table;
-  width: 80vmax;
-  height: 100px;
-  line-height: 230px;
-}
-.menu li{
-  display:table-cell;
+
+.footer-copy{
+  font-size: 40px;
+  padding-top: 50px;
 }

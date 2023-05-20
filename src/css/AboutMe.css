@@ -1,9 +1,8 @@
 .about-me{
-  padding: 40px;
   width: 100vw;
   color: #376084;
 }
-.about-me h2{
+.title-container h2{
   font-size: 100px;
   border: 5px solid #376084;
   border-radius: 20px;
@@ -11,7 +10,7 @@
   margin: 50px auto;
   padding: 20px;
 }
-.about-me p{
+.title-container p{
   font-size: 60px;
   margin: 50px auto;
   padding: 20px;

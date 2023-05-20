@@ -3,11 +3,28 @@
   width: 100vw;
   color: #376084;
 }
-.skill h2{
+.skill-title-container{
+  width: 80vw;
+  padding: 0 40px;
+  margin: 0 auto;
+}
+.skill-title-container h2{
   font-size: 100px;
   border: 5px solid #376084;
   border-radius: 20px;
   width: 700px;
   margin: 50px auto;
   padding: 20px;
+}
+.skill-title-container p{
+  font-size: 40px;
+  margin: 50px auto;
+  padding: 20px;
+  text-align: left;
+}
+
+.skill-container{
+  display: flex;
+  margin: 120px auto;
+  width: 1600px;
 }
