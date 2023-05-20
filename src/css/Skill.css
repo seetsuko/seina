@@ -1,0 +1,13 @@
+.skill{
+  padding: 40px;
+  width: 100vw;
+  color: #376084;
+}
+.skill h2{
+  font-size: 100px;
+  border: 5px solid #376084;
+  border-radius: 20px;
+  width: 700px;
+  margin: 50px auto;
+  padding: 20px;
+}
