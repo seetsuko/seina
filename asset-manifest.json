@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/seina/static/css/main.e9767994.css",
-    "main.js": "/seina/static/js/main.2c3efeb9.js",
+    "main.css": "/seina/static/css/main.8ec58735.css",
+    "main.js": "/seina/static/js/main.b5c52aaa.js",
     "static/media/my-picture.jpg": "/seina/static/media/my-picture.743354c6021711373914.jpg",
     "static/media/mgram.jpg": "/seina/static/media/mgram.d366f34925411461182f.jpg",
     "index.html": "/seina/index.html",
-    "main.e9767994.css.map": "/seina/static/css/main.e9767994.css.map",
-    "main.2c3efeb9.js.map": "/seina/static/js/main.2c3efeb9.js.map"
+    "main.8ec58735.css.map": "/seina/static/css/main.8ec58735.css.map",
+    "main.b5c52aaa.js.map": "/seina/static/js/main.b5c52aaa.js.map"
   },
   "entrypoints": [
-    "static/css/main.e9767994.css",
-    "static/js/main.2c3efeb9.js"
+    "static/css/main.8ec58735.css",
+    "static/js/main.b5c52aaa.js"
   ]
 }
