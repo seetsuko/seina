@@ -21,7 +21,7 @@ export const Home = () => {
         <Scroll to="about-me" smooth>
           <ExpandMoreIcon
             className="next-icon"
-            sx={{ fontSize: 100 }}
+            sx={{ fontSize: 50 }}
           />
         </Scroll>
       </div>

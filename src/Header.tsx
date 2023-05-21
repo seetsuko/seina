@@ -11,8 +11,8 @@ export const Header = () => {
             <Scroll to="home" smooth>
             <Button
                 sx={{color: "#4f3737",
-                    fontSize: 60,
-                    marginBottom: 3,
+                    fontSize: "2rem",
+                    marginTop: 2,
                     textTransform: "none",
                     "&:hover": {
                       background: "#e9dbaaa9"
@@ -25,8 +25,8 @@ export const Header = () => {
             <Scroll to="about-me" smooth>
             <Button
                 sx={{color: "#4f3737",
-                    fontSize: 60,
-                    marginBottom: 3,
+                    fontSize: "2rem",
+                    marginTop: 2,
                     textTransform: "none",
                     "&:hover": {
                       background: "#e9dbaaa9"
@@ -39,8 +39,8 @@ export const Header = () => {
             <Scroll to="portfolio" smooth>
               <Button
                 sx={{color: "#4f3737",
-                    fontSize: 60,
-                    marginBottom: 3,
+                    fontSize: "2rem",
+                    marginTop: 2,
                     textTransform: "none",
                     "&:hover": {
                       background: "#e9dbaaa9"
@@ -53,8 +53,8 @@ export const Header = () => {
             <Scroll to="skill" smooth>
             <Button
                 sx={{color: "#4f3737",
-                    fontSize: 60,
-                    marginBottom: 3,
+                    fontSize: "2rem",
+                    marginTop: 2,
                     textTransform: "none",
                     "&:hover": {
                       background: "#e9dbaaa9"

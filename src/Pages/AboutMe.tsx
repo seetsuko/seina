@@ -11,22 +11,22 @@ export const AboutMe = () => {
       <div className="about-me">
         <div className="title-container">
           <h2>About Me</h2>
-          <p>\ こんにちは！長門 聖菜です /</p>
+          <p>こんにちは！長門 聖菜です</p>
         </div>
         <div className="personal-card-container">
-          <Card sx={{ width: 800,
-                      minHeight: 800,
-                      marginRight: 10,
+          <Card sx={{ width: 400,
+                      minHeight: 400,
+                      marginRight: 5,
                       backgroundColor: "#f1e5d0",
                       boxShadow:10, }}>
             <CardContent>
-              <Typography sx={{ fontSize: 45,
-                                padding: 5,
+              <Typography sx={{ fontSize: "1.5rem",
+                                padding: 2,
                                 borderBottom: 1}}>
                 好奇心と探求心が<br/>尽きない！
               </Typography>
-              <Typography sx={{ fontSize: 34,
-                                padding:7,
+              <Typography sx={{ fontSize: "1.2rem",
+                                padding:3,
                                 textAlign: "left"}}
                                 color="text.secondary"
               >
@@ -34,20 +34,20 @@ export const AboutMe = () => {
               </Typography>
             </CardContent>
           </Card>
-          <Card sx={{ width: 800,
-                      minHeight: 800,
+          <Card sx={{ width: 400,
+                      minHeight: 400,
                       backgroundColor: "#f1e5d0",
                       boxShadow:10,}}
           >
             <CardContent>
-              <Typography sx={{ fontSize: 45,
-                                padding: 5,
+              <Typography sx={{ fontSize: "1.5rem",
+                                padding: 2,
                                 borderBottom: 1}}
               >
                 コミュニケーション<br/>大好き！
               </Typography>
-              <Typography sx={{ fontSize: 34,
-                                padding:7,
+              <Typography sx={{ fontSize: "1.2rem",
+                                padding:3,
                                 textAlign: "left"}}  color="text.secondary"
               >
                 前職で接客業、営業事務等で人と関わることが多かったこともあり、人とコミュニケーションを取ることが大好きです。人と話すことで知識や経験、情報の交換ができて新しい発想が生まれることもあるし、1人よりもみんなで協力することで、達成感や喜びも倍増すると考えているので、ぜひ皆さんと一緒に頑張りたいです！

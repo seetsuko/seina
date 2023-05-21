@@ -4,10 +4,10 @@
   color: #376084;
 }
 .portfolio h2{
-  font-size: 100px;
-  border: 5px solid #376084;
-  border-radius: 20px;
-  width: 700px;
-  margin: 50px auto;
-  padding: 20px;
+  font-size: 3rem;
+  border: 3px solid #376084;
+  border-radius: 10px;
+  width: 300px;
+  margin: 20px auto;
+  padding: 10px;
 }

@@ -1,30 +1,30 @@
 .skill{
-  padding: 40px;
+  padding: 20px;
   width: 100vw;
   color: #376084;
 }
 .skill-title-container{
   width: 80vw;
-  padding: 0 40px;
+  padding: 0 20px;
   margin: 0 auto;
 }
 .skill-title-container h2{
-  font-size: 100px;
-  border: 5px solid #376084;
-  border-radius: 20px;
-  width: 700px;
-  margin: 50px auto;
-  padding: 20px;
+  font-size: 3rem;
+  border: 3px solid #376084;
+  border-radius: 10px;
+  width: 300px;
+  margin: 20px auto;
+  padding: 10px;
 }
 .skill-title-container p{
-  font-size: 40px;
-  margin: 50px auto;
-  padding: 20px;
+  font-size: 1.2rem;
+  margin: 30px auto;
+  padding: 10px;
   text-align: left;
 }
 
 .skill-container{
   display: flex;
-  margin: 120px auto;
-  width: 1600px;
+  margin: 60px auto;
+  width: 800px;
 }

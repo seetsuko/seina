@@ -13,66 +13,64 @@ export const Skill = () => {
           </p>
         </div>
         <div className="skill-container">
-        <Card sx={{ width: 600,
-                      height: 500,
-                      marginRight: 10,
-                      backgroundColor: "#b8cffa",
-                      boxShadow:10, }}>
+        <Card sx={{ width: 300,
+                    height: 250,
+                    marginRight: 5,
+                    backgroundColor: "#b8cffa",
+                    boxShadow:10, }}>
             <CardContent>
-              <Typography sx={{ fontSize: 45,
+              <Typography sx={{ fontSize: "1.5rem",
                                 borderBottom: 1}}>
                 FRONTEND
               </Typography>
-              <Typography sx={{ fontSize: 34,
-                                padding:7,
+              <Typography sx={{ fontSize: "1rem",
+                                padding:2,
                                 textAlign: "left"}}
-                                color="text.secondary"
-              >
+                                color="text.secondary">
                 ■ HTML,CSS<br/>
                 ■ JavaScript<br/>
                 ■ React<br/>
-                ■ Vue&emsp;&emsp;― 学習中<br/>
                 ■ Sass(Scss)<br/>
+                ■ TypeScript
               </Typography>
             </CardContent>
           </Card>
-          <Card sx={{ width: 600,
-                      height: 500,
-                      marginRight: 10,
-                      backgroundColor: "#b8cffa",
-                      boxShadow:10,}}
-          >
+          <Card sx={{ width: 300,
+                    height: 250,
+                    marginRight: 5,
+                    backgroundColor: "#b8cffa",
+                    boxShadow:10, }}>
             <CardContent>
-              <Typography sx={{ fontSize: 45,
+              <Typography sx={{ fontSize: "1.5rem",
                                 borderBottom: 1}}
               >
                 BACKEND
               </Typography>
-              <Typography sx={{ fontSize: 34,
-                                padding:7,
-                                textAlign: "left"}}  color="text.secondary"
-              >
+              <Typography sx={{ fontSize: "1rem",
+                                padding:2,
+                                textAlign: "left"}}
+                                color="text.secondary">
                 ■ Ruby&emsp;&emsp;― 学習中<br/>
                 ■ Ruby on Rails<br/>&emsp;&emsp;&emsp;&emsp;&emsp;― 学習中<br/>
                 ■ Node.js<br/>
               </Typography>
             </CardContent>
           </Card>
-          <Card sx={{ width: 600,
-                      height: 500,
-                      backgroundColor: "#b8cffa",
-                      boxShadow:10,}}
-          >
+          <Card sx={{ width: 300,
+                    height: 250,
+                    marginRight: 5,
+                    backgroundColor: "#b8cffa",
+                    boxShadow:10, }}>
             <CardContent>
-              <Typography sx={{ fontSize: 45,
+              <Typography sx={{ fontSize: "1.5rem",
                                 borderBottom: 1}}
               >
                 INFRA
               </Typography>
-              <Typography sx={{ fontSize: 34,
-                                padding:7,
-                                textAlign: "left"}}  color="text.secondary"
-              >
+              <Typography sx={{ fontSize: "1rem",
+                                padding:2,
+                                textAlign: "left"}}
+                                color="text.secondary">
                 ■ GitHub Pages<br/>
                 ■ AWS
               </Typography>

@@ -1,12 +1,13 @@
 .App-footer {
   margin: 0;
-  height: 200px;
+  width: 100vw;
+  height: 100px;
   background-color: #dbc2d2;
   text-align: center;
   color: #4f3737;
 }
 
 .footer-copy{
-  font-size: 40px;
-  padding-top: 50px;
+  font-size: 1.2rem;
+  padding-top: 20px;
 }

@@ -1,5 +1,6 @@
 .App-header {
-  height: 200px;
+  width: 100vw;
+  height: 100px;
   background-color: #dbc2d2;
   text-align: center;
   color: #4f3737;
@@ -10,7 +11,6 @@
   display: table;
   width: 80vmax;
   height: 100px;
-  line-height: 230px;
 }
 .menu li{
   display:table-cell;
