@@ -9,14 +9,14 @@ export const Skill = () => {
       <div className="skill">
         <div className="skill-title-container">
           <h2>Skill</h2>
-          <p>主にReactを勉強して、ちょっとずつNode.jsを学び、アプリ開発でDBを使いたかったので、学習難易度が低めでモダンな技術と言われているRuby on railsを勉強しています。インフラにおいてはデプロイしかしておらず、まだまだ知識がないのでこれから頑張りたいと思っています。
+          <p>主にReactを勉強して、ちょっとずつNode.jsを学び、アプリ開発でDBを使いたかったので、学習難易度が低めでモダンな技術と言われているRuby on railsを勉強しました。インフラにおいてはデプロイしかしておらず、まだまだ知識がないのでこれから頑張りたいと思っています。
           </p>
         </div>
         <div className="skill-container">
         <Card sx={{ width: 300,
                     height: 250,
                     marginRight: 5,
-                    backgroundColor: "#b8cffa",
+                    backgroundColor: "#489df8",
                     boxShadow:10, }}>
             <CardContent>
               <Typography sx={{ fontSize: "1.5rem",
@@ -38,7 +38,7 @@ export const Skill = () => {
           <Card sx={{ width: 300,
                     height: 250,
                     marginRight: 5,
-                    backgroundColor: "#b8cffa",
+                    backgroundColor: "#489df8",
                     boxShadow:10, }}>
             <CardContent>
               <Typography sx={{ fontSize: "1.5rem",
@@ -50,8 +50,8 @@ export const Skill = () => {
                                 padding:2,
                                 textAlign: "left"}}
                                 color="text.secondary">
-                ■ Ruby&emsp;&emsp;― 学習中<br/>
-                ■ Ruby on Rails<br/>&emsp;&emsp;&emsp;&emsp;&emsp;― 学習中<br/>
+                ■ Ruby<br/>
+                ■ Ruby on Rails<br/>
                 ■ Node.js<br/>
               </Typography>
             </CardContent>
@@ -59,7 +59,7 @@ export const Skill = () => {
           <Card sx={{ width: 300,
                     height: 250,
                     marginRight: 5,
-                    backgroundColor: "#b8cffa",
+                    backgroundColor: "#489df8",
                     boxShadow:10, }}>
             <CardContent>
               <Typography sx={{ fontSize: "1.5rem",
@@ -72,7 +72,8 @@ export const Skill = () => {
                                 textAlign: "left"}}
                                 color="text.secondary">
                 ■ GitHub Pages<br/>
-                ■ AWS
+                ■ render<br/>
+                ■ vercel
               </Typography>
             </CardContent>
           </Card>

@@ -10,12 +10,10 @@ export const Header = () => {
           <li>
             <Scroll to="home" smooth>
             <Button
-                sx={{color: "#4f3737",
-                    fontSize: "2rem",
+                sx={{fontSize: "2rem",
                     marginTop: 2,
-                    textTransform: "none",
-                    "&:hover": {
-                      background: "#e9dbaaa9"
+                      "&:hover": {
+                      background: "#36bef88d"
                     }
                     }}>Home
               </Button>
@@ -24,12 +22,11 @@ export const Header = () => {
           <li>
             <Scroll to="about-me" smooth>
             <Button
-                sx={{color: "#4f3737",
+                sx={{ 
                     fontSize: "2rem",
                     marginTop: 2,
-                    textTransform: "none",
-                    "&:hover": {
-                      background: "#e9dbaaa9"
+                      "&:hover": {
+                      background: "#36bef88d"
                     }
                     }}>About Me
               </Button>
@@ -38,12 +35,11 @@ export const Header = () => {
           <li>
             <Scroll to="portfolio" smooth>
               <Button
-                sx={{color: "#4f3737",
+                sx={{ 
                     fontSize: "2rem",
                     marginTop: 2,
-                    textTransform: "none",
-                    "&:hover": {
-                      background: "#e9dbaaa9"
+                      "&:hover": {
+                      background: "#36bef88d"
                     }
                     }}>Portfolio
               </Button>
@@ -52,12 +48,11 @@ export const Header = () => {
           <li>
             <Scroll to="skill" smooth>
             <Button
-                sx={{color: "#4f3737",
+                sx={{ 
                     fontSize: "2rem",
                     marginTop: 2,
-                    textTransform: "none",
-                    "&:hover": {
-                      background: "#e9dbaaa9"
+                      "&:hover": {
+                      background: "#36bef88d"
                     }
                     }}>Skill
               </Button>

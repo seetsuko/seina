@@ -17,7 +17,7 @@ export const AboutMe = () => {
           <Card sx={{ width: 400,
                       minHeight: 400,
                       marginRight: 5,
-                      backgroundColor: "#f1e5d0",
+                      backgroundColor: "#f0ffff",
                       boxShadow:10, }}>
             <CardContent>
               <Typography sx={{ fontSize: "1.5rem",
@@ -28,7 +28,7 @@ export const AboutMe = () => {
               <Typography sx={{ fontSize: "1.2rem",
                                 padding:3,
                                 textAlign: "left"}}
-                                color="text.secondary"
+                                color="#37434f"
               >
                 常に「なんで？」と「もっと」が頭の中にあり、とにかく調べて知識を深めていくのが大好きです。興味を持ったことはとことん知りたい、経験したい！という性格です。やってみたいと思ったことは挑戦したい！失敗こそ大きな学びだと考えています。また、成長には素直さが大切という考えを持っており、柔軟に吸収していくようにしています。
               </Typography>
@@ -36,7 +36,7 @@ export const AboutMe = () => {
           </Card>
           <Card sx={{ width: 400,
                       minHeight: 400,
-                      backgroundColor: "#f1e5d0",
+                      backgroundColor: "#f0ffff",
                       boxShadow:10,}}
           >
             <CardContent>
@@ -48,7 +48,7 @@ export const AboutMe = () => {
               </Typography>
               <Typography sx={{ fontSize: "1.2rem",
                                 padding:3,
-                                textAlign: "left"}}  color="text.secondary"
+                                textAlign: "left"}}  color="#37434f"
               >
                 前職で接客業、営業事務等で人と関わることが多かったこともあり、人とコミュニケーションを取ることが大好きです。人と話すことで知識や経験、情報の交換ができて新しい発想が生まれることもあるし、1人よりもみんなで協力することで、達成感や喜びも倍増すると考えているので、ぜひ皆さんと一緒に頑張りたいです！
               </Typography>
