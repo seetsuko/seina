@@ -5,7 +5,6 @@ import IconButton from "@mui/material/IconButton";
 import { SiZenn } from "react-icons/si";
 import ExpandMoreIcon from "@mui/icons-material/ExpandMore";
 import { Link as Scroll } from "react-scroll";
-
 import myPicture from "../picture/my-picture.jpg";
 
 export const Home = () => {

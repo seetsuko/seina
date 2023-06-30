@@ -9,7 +9,7 @@ export const Skill = () => {
       <div className="skill">
         <div className="skill-title-container">
           <h2>Skill</h2>
-          <p>主にReactを勉強して、ちょっとずつNode.jsを学び、アプリ開発でDBを使いたかったので、学習難易度が低めでモダンな技術と言われているRuby on railsを勉強しました。インフラにおいてはデプロイしかしておらず、まだまだ知識がないのでこれから頑張りたいと思っています。
+          <p>主にReactを勉強してきました。アプリ開発でDBを使いたかったので、学習難易度が低めでモダンな技術と言われているRuby on railsを勉強しました。インフラにおいてはデプロイしかしておらず、まだまだ知識がないのでこれから頑張りたいと思っています。
           </p>
         </div>
         <div className="skill-container">
@@ -52,7 +52,6 @@ export const Skill = () => {
                                 color="text.secondary">
                 ■ Ruby<br/>
                 ■ Ruby on Rails<br/>
-                ■ Node.js<br/>
               </Typography>
             </CardContent>
           </Card>
