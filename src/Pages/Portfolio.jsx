@@ -41,24 +41,12 @@ export const Portfolio = () => {
           </div>
           <div className="portfolio-detail">
           <table>
-              <tr>
-                <th>使用言語:</th><th>Typescript, Ruby</th>
-              </tr>
-              <tr>
-                <th>ライブラリ：</th><th>React (day.js, chakra-ui, react-router)</th>
-              </tr>
-              <tr>
-                <th>フレームワーク：</th><th>Ruby on Rails</th>
-              </tr>
-              <tr>
-                <th>データベース：</th><th>ProgureSQL</th>
-              </tr>
-              <tr>
-                <th>認証：</th><th>Firebase Authentication</th>
-              </tr>
-              <tr>
-                <th>インフラ：</th><th>Vercel, render</th>
-              </tr>
+            <tr><th>使用言語:</th><th>Typescript, Ruby</th></tr>
+            <tr><th>ライブラリ：</th><th>React (day.js, chakra-ui, react-router)</th></tr>
+            <tr><th>フレームワーク：</th><th>Ruby on Rails</th></tr>
+            <tr><th>データベース：</th><th>ProgureSQL</th></tr>
+            <tr><th>認証：</th><th>Firebase Authentication</th></tr>
+            <tr><th>インフラ：</th><th>Vercel, render</th></tr>
             </table>
           </div>
           <div>
