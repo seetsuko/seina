@@ -1,16 +1,16 @@
 {
   "files": {
     "main.css": "/seina/static/css/main.ff804a38.css",
-    "main.js": "/seina/static/js/main.13a3b2ac.js",
+    "main.js": "/seina/static/js/main.202e4912.js",
     "static/media/my-picture.jpg": "/seina/static/media/my-picture.bfcf46c838abb65879b2.jpg",
     "static/media/mgram.jpg": "/seina/static/media/mgram.d366f34925411461182f.jpg",
     "static/media/myKirokun.jpg": "/seina/static/media/myKirokun.370d4981a87d689ad694.jpg",
     "index.html": "/seina/index.html",
     "main.ff804a38.css.map": "/seina/static/css/main.ff804a38.css.map",
-    "main.13a3b2ac.js.map": "/seina/static/js/main.13a3b2ac.js.map"
+    "main.202e4912.js.map": "/seina/static/js/main.202e4912.js.map"
   },
   "entrypoints": [
     "static/css/main.ff804a38.css",
-    "static/js/main.13a3b2ac.js"
+    "static/js/main.202e4912.js"
   ]
 }
