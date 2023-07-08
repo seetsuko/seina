@@ -30,6 +30,7 @@ export const Skill = () => {
                 ■ HTML,CSS<br/>
                 ■ JavaScript<br/>
                 ■ React<br/>
+                ■ Next.js<br/>
                 ■ Sass(Scss)<br/>
                 ■ TypeScript
               </Typography>
